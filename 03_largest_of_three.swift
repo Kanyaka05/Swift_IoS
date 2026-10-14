@@ -1,0 +1,11 @@
+let a = 10
+let b = 25
+let c = 15
+
+if a>=b &&  a>=c{
+  print("Largest number is \(a)")
+} else if b>=a && b>=c {
+  print("Largest number is \(b)")
+} else {
+  print("Largest number is \(c)")
+}
