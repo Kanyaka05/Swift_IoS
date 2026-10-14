@@ -1,0 +1,7 @@
+let name = "kanyaka"
+var age = 21
+let percentage = 89.90
+
+print("Name : \(name)")
+print("Age : \(age)")
+print("Percentage : \(percentage)")
